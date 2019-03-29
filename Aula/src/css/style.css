@@ -1,0 +1,63 @@
+h1 {
+    color: black   
+}
+h3 {
+    margin-bottom: 70px
+}
+
+h4.titulo {
+    font-size: 1.75rem;
+    margin-bottom: 10px;
+}
+p.texto {
+    margin-top: 0;
+    margin-bottom: 80px;
+    text-align: justify
+}
+h4.experiencia {
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+p.cargo{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+p.periododetrabalho{
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+h4.educacao{
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+p.nomedocurso{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+p.datadeconclusaodocurso{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+p.titulohtml {
+    margin-top:10px;
+    margin-bottom:0;
+}
+p.titulohabilidade {
+    margin-top:20px;
+    margin-bottom:0;
+}
+p.itensdecontato{
+    margin-top:0;
+    margin-bottom:0;
+}
+
+/* .container{
+    background-image: url("src/assets/S2 - Bootstrap/forest.jpg")
+    background-repeat: no-repeat;
+    background-size: 100%;
+    } */
+
+.batata {
+    background-image: url(./src/assets/forest.jpg);
+}
